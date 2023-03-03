@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Archivos\\Downloads\\DevToPosts-post-part1\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj": {}
+    "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj": {}
   },
   "projects": {
-    "D:\\Archivos\\Downloads\\DevToPosts-post-part1\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj": {
+    "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Archivos\\Downloads\\DevToPosts-post-part1\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj",
+        "projectUniqueName": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj",
         "projectName": "DomainEventsExample",
-        "projectPath": "D:\\Archivos\\Downloads\\DevToPosts-post-part1\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj",
+        "projectPath": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj",
         "packagesPath": "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\",
-        "outputPath": "D:\\Archivos\\Downloads\\DevToPosts-post-part1\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample\\obj\\",
+        "outputPath": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\DomainEventsExample\\DomainEventsExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

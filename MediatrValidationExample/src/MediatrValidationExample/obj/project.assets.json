@@ -1632,11 +1632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\MediatrValidationExample.csproj",
+      "projectUniqueName": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\MediatrValidationExample.csproj",
       "projectName": "MediatrValidationExample",
-      "projectPath": "D:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\MediatrValidationExample.csproj",
+      "projectPath": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\MediatrValidationExample.csproj",
       "packagesPath": "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\",
-      "outputPath": "D:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\obj\\",
+      "outputPath": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

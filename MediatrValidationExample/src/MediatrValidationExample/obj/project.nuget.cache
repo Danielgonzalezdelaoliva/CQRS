@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aJLRA2LoahIjVL4K1zQm3AkTz5NT0XePZCFvMAVQvg8epi9hqVnayylfFWIiSe3seiJjSLLqyYjpq2p3PMZ03Q==",
+  "dgSpecHash": "yLsKNLFvZWh5YILOzKKVg8i8F/ESLGq1C1VKLEumfKYEHVunHYvbPQagZexE+nAtaviDgqBEWPbVBi3ePEcJeA==",
   "success": true,
-  "projectFilePath": "D:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\MediatrValidationExample.csproj",
+  "projectFilePath": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\MediatrValidationExample\\src\\MediatrValidationExample\\MediatrValidationExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",

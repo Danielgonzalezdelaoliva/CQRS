@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g4id5OCTHAyy9VInoC9E/L+Vf0/JKi+vnSu8/7WdpQkP9Y7UYrBWlAa8Iey8waqraYgsl6k79ieNGeYl6VX2lg==",
+  "dgSpecHash": "f+gtzX5ZbuVjeb9DAbOTf/7U3NFBKVa2pvtpXYd+WZszb7px4Eo0Dn5F0cVwAKxzFgap7ekUiKwRtvaecUY0oQ==",
   "success": true,
-  "projectFilePath": "D:\\Archivos\\Downloads\\DevToPosts-post-part1\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj",
+  "projectFilePath": "F:\\001 Daniel\\inicio\\Codigo\\Full stack\\CQRS\\DomainEventsExample\\DomainEventsExample\\DomainEventsExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\carter\\6.0.0\\carter.6.0.0.nupkg.sha512",
     "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
